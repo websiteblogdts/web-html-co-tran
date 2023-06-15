@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Mã HTML với CSS</title>
+  <style>
+    /* Định dạng cho phần panel */
+    .panel {
+      border-color: #F2F4F4;
+    }
+
+    /* Định dạng cho phần panel-heading */
+    .panel-heading {
+      background-color: rgba(255, 255, 255, 1);
+    }
+
+    /* Định dạng cho phần panel-title */
+    .panel-title a {
+      color: #000;
+      border-color: #F2F4F4;
+    }
+
+    /* Định dạng cho phần panel-body */
+    .panel-body {
+      border-color: #F2F4F4;
+      background-color: rgba(255, 255, 255, 1);
+    }
+  </style>
+</head>
+</html>
